@@ -11,3 +11,16 @@ D:\i\OneDrive\Examples\DotNet-Core\RefactorTest\RefactorTest\obj\Debug\netcoreap
 D:\i\OneDrive\Examples\DotNet-Core\RefactorTest\RefactorTest\obj\Debug\netcoreapp3.1\RefactorTest.dll
 D:\i\OneDrive\Examples\DotNet-Core\RefactorTest\RefactorTest\obj\Debug\netcoreapp3.1\RefactorTest.pdb
 D:\i\OneDrive\Examples\DotNet-Core\RefactorTest\RefactorTest\obj\Debug\netcoreapp3.1\RefactorTest.genruntimeconfig.cache
+D:\g\conceptual-tests\RefactorTest\RefactorTest\bin\Debug\netcoreapp3.1\RefactorTest.exe
+D:\g\conceptual-tests\RefactorTest\RefactorTest\bin\Debug\netcoreapp3.1\RefactorTest.deps.json
+D:\g\conceptual-tests\RefactorTest\RefactorTest\bin\Debug\netcoreapp3.1\RefactorTest.runtimeconfig.json
+D:\g\conceptual-tests\RefactorTest\RefactorTest\bin\Debug\netcoreapp3.1\RefactorTest.runtimeconfig.dev.json
+D:\g\conceptual-tests\RefactorTest\RefactorTest\bin\Debug\netcoreapp3.1\RefactorTest.dll
+D:\g\conceptual-tests\RefactorTest\RefactorTest\bin\Debug\netcoreapp3.1\RefactorTest.pdb
+D:\g\conceptual-tests\RefactorTest\RefactorTest\obj\Debug\netcoreapp3.1\RefactorTest.csprojAssemblyReference.cache
+D:\g\conceptual-tests\RefactorTest\RefactorTest\obj\Debug\netcoreapp3.1\RefactorTest.AssemblyInfoInputs.cache
+D:\g\conceptual-tests\RefactorTest\RefactorTest\obj\Debug\netcoreapp3.1\RefactorTest.AssemblyInfo.cs
+D:\g\conceptual-tests\RefactorTest\RefactorTest\obj\Debug\netcoreapp3.1\RefactorTest.csproj.CoreCompileInputs.cache
+D:\g\conceptual-tests\RefactorTest\RefactorTest\obj\Debug\netcoreapp3.1\RefactorTest.dll
+D:\g\conceptual-tests\RefactorTest\RefactorTest\obj\Debug\netcoreapp3.1\RefactorTest.pdb
+D:\g\conceptual-tests\RefactorTest\RefactorTest\obj\Debug\netcoreapp3.1\RefactorTest.genruntimeconfig.cache

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\i\\OneDrive\\Examples\\DotNet-Core\\RefactorTest\\RefactorTest\\RefactorTest.csproj",
+      "projectUniqueName": "D:\\g\\conceptual-tests\\RefactorTest\\RefactorTest\\RefactorTest.csproj",
       "projectName": "RefactorTest",
-      "projectPath": "D:\\i\\OneDrive\\Examples\\DotNet-Core\\RefactorTest\\RefactorTest\\RefactorTest.csproj",
+      "projectPath": "D:\\g\\conceptual-tests\\RefactorTest\\RefactorTest\\RefactorTest.csproj",
       "packagesPath": "C:\\Users\\apinzon\\.nuget\\packages\\",
-      "outputPath": "D:\\i\\OneDrive\\Examples\\DotNet-Core\\RefactorTest\\RefactorTest\\obj\\",
+      "outputPath": "D:\\g\\conceptual-tests\\RefactorTest\\RefactorTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\apinzon\\AppData\\Roaming\\NuGet\\NuGet.Config",
