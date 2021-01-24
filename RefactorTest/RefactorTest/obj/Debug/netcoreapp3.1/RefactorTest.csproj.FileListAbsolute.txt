@@ -1,0 +1,13 @@
+D:\i\OneDrive\Examples\DotNet-Core\RefactorTest\RefactorTest\bin\Debug\netcoreapp3.1\RefactorTest.exe
+D:\i\OneDrive\Examples\DotNet-Core\RefactorTest\RefactorTest\bin\Debug\netcoreapp3.1\RefactorTest.deps.json
+D:\i\OneDrive\Examples\DotNet-Core\RefactorTest\RefactorTest\bin\Debug\netcoreapp3.1\RefactorTest.runtimeconfig.json
+D:\i\OneDrive\Examples\DotNet-Core\RefactorTest\RefactorTest\bin\Debug\netcoreapp3.1\RefactorTest.runtimeconfig.dev.json
+D:\i\OneDrive\Examples\DotNet-Core\RefactorTest\RefactorTest\bin\Debug\netcoreapp3.1\RefactorTest.dll
+D:\i\OneDrive\Examples\DotNet-Core\RefactorTest\RefactorTest\bin\Debug\netcoreapp3.1\RefactorTest.pdb
+D:\i\OneDrive\Examples\DotNet-Core\RefactorTest\RefactorTest\obj\Debug\netcoreapp3.1\RefactorTest.csprojAssemblyReference.cache
+D:\i\OneDrive\Examples\DotNet-Core\RefactorTest\RefactorTest\obj\Debug\netcoreapp3.1\RefactorTest.AssemblyInfoInputs.cache
+D:\i\OneDrive\Examples\DotNet-Core\RefactorTest\RefactorTest\obj\Debug\netcoreapp3.1\RefactorTest.AssemblyInfo.cs
+D:\i\OneDrive\Examples\DotNet-Core\RefactorTest\RefactorTest\obj\Debug\netcoreapp3.1\RefactorTest.csproj.CoreCompileInputs.cache
+D:\i\OneDrive\Examples\DotNet-Core\RefactorTest\RefactorTest\obj\Debug\netcoreapp3.1\RefactorTest.dll
+D:\i\OneDrive\Examples\DotNet-Core\RefactorTest\RefactorTest\obj\Debug\netcoreapp3.1\RefactorTest.pdb
+D:\i\OneDrive\Examples\DotNet-Core\RefactorTest\RefactorTest\obj\Debug\netcoreapp3.1\RefactorTest.genruntimeconfig.cache
